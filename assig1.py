@@ -22,7 +22,7 @@ print("the factorial of the given number is",fact)
 
 # 4. Write a program that asks the user for their name and then prints a greeting message.
 name=input("enter your name-")
-print("Hello!",name,)
+print("Hello!",name)
 
 # 5. Write a program that takes a string input from the user and writes it to a text file.
 
